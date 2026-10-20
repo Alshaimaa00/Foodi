@@ -90,6 +90,6 @@ Built for the **Apple Developer Academy** challenge: *"Use reminders to improve 
 **Eat on time, waste less 💚**
 
 </div>
-**Eat on time, waste less 💚**
+
 
 </div>
