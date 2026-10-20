@@ -65,25 +65,9 @@ Built for the **Apple Developer Academy** challenge: *"Use reminders to improve 
 
 <div align="center" style="margin: 20px 0;">
 
-<img src="assets/screen-1-meals.jpg" width="240" alt="Meals setup"/>
-&nbsp;&nbsp;
-<img src="assets/screen-2-add-food.jpg" width="240" alt="Add food"/>
-&nbsp;&nbsp;
-<img src="assets/screen-3-countdown.jpg" width="240" alt="Meal countdown and food expiry"/>
+<img src="assets/screens.jpg" width="800" alt="Foodi screens"/>
 
 </div>
-
----
-
-## ▶️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Alshaimaa00/Foodi.git
-   ```
-2. Open `Remindeme.xcodeproj` in Xcode.
-3. Choose an iPhone simulator or your own device.
-4. Press **Run** (`⌘ + R`).
 
 ---
 
@@ -103,6 +87,9 @@ Built for the **Apple Developer Academy** challenge: *"Use reminders to improve 
 
 <div align="center" style="margin: 30px 0;">
 
+**Eat on time, waste less 💚**
+
+</div>
 **Eat on time, waste less 💚**
 
 </div>
